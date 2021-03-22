@@ -2,17 +2,17 @@
 
 ### Run
 
-- brew services start redis
-- npm run dev (run backend and frontend concurrently)
+- `brew services start redis`
+- `npm run dev` (run backend and frontend concurrently)
 
 ### Test
 
-- npm run test
+- `npm run test`
 
 ### Stop
 
-- brew services stop redis
-- Ctrl + C
+- `brew services stop redis`
+- `Ctrl + C`
 
 ### Test redis in Node Repl
 
