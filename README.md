@@ -1,20 +1,20 @@
 # Blogster
 
-# Run
+### Run
 
 - brew services start redis
 - npm run dev (run backend and frontend concurrently)
 
-# Test
+### Test
 
 - npm run test
 
-# Stop
+### Stop
 
 - brew services stop redis
 - Ctrl + C
 
-# Test redis in Node Repl
+### Test redis in Node Repl
 
 node
 const redis = require('redis');
